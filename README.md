@@ -45,7 +45,7 @@ etc.
     -- DEFAULT SETTINGS
     -- data = vim.fn.stdpath("data") .. "/saved_notes",
     -- extension = "txt",
-    -- open_direction = "vsplit",
+    -- open_direction = "split",
     -- size = "equal",
     -- cwd = {},
     -- buffer = {},
@@ -69,7 +69,7 @@ use({
 {
   data = vim.fn.stdpath("data") .. "/saved_notes", -- Where to save notes
   extension = "txt", -- What extension to append to created notes
-  open_direction = "vsplit", -- How to open notes can be 
+  open_direction = "split", -- How to open notes can be 
                              --   "vsplit" same as ':vsplit'
                              --   "split" same as ':split' 
                              --   "float" floating window 
