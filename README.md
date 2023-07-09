@@ -1,4 +1,4 @@
-<h1 align='center'>saved_notes</h1>
+<h1 align='center'>saved_notes.nvim</h1>
 
 Neovim plugin for creating and editing notes associated with cwd, current buffer's filepath, or filetype of the current buffer under a single key.
 
