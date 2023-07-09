@@ -3,8 +3,9 @@
 Neovim plugin for creating and editing notes associated with cwd, current buffer's filepath, or filetype of the current buffer under a single key.
 
 You could use it for:
-Keeping a TODO file for a file (or project) in some project but when you don't want to put it inside the actual file.
-Keeping notes for different languages you learn
+- Keeping a TODO file for a file (or project) in some project but when you don't want to put it inside the actual file.
+- Keeping notes for different languages you learn
+
 etc.
 
 ## Requirements
